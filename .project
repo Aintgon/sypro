@@ -4,7 +4,7 @@
 	<comment></comment>
 	<projects>
 	</projects>
-	<buildSpec>
+	<buildSpec>安全行业从业者自研开源扫描器合辑
 		<buildCommand>
 			<name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
 			<arguments>
